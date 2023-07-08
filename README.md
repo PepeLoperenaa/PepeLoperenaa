@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PepeLoperenaa
-- 👀 I’m interested in Java, HTML, CSS, JS and everything to do with programing!
-- 🌱 I’m currently learning Kotlin and GoLang and working as an intern in @BadgerMaps
+- 👀 I’m interested in, Python, DevOps, JavaScript
+- 🌱 I’m currently learning Rust and working as an intern in @BadgerMaps
 - 📫 To reach me, please email me to pepeloperena@gmail.com 
 
 <!---
